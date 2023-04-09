@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/4/10 1:14 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/4/10 1:56 AM UTC`.
 
-This repository contains users `16 countries` and `84 cities`. 
+This repository contains users `16 countries` and `220 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/hbourgeot/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -235,12 +235,57 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 		</td>
 		<td>
 			<code>Mexico-city</code> 
-			<code>Guadalajara</code> 
+			<code>Tijuana</code> 
+			<code>Ecatepec</code> 
+			<code>Leon</code> 
 			<code>Puebla</code> 
 			<code>Ciudad-juárez</code> 
-			<code>Tijuana</code> 
+			<code>Guadalajara</code> 
+			<code>Zapopan</code> 
 			<code>Monterrey</code> 
+			<code>Ciudad-nezahualcoyorl</code> 
+			<code>Chihuahua</code> 
+			<code>Merida</code> 
+			<code>Naucalpan</code> 
+			<code>Toluca</code> 
+			<code>Cancun</code> 
+			<code>Saltillo</code> 
+			<code>Aguascalientes</code> 
+			<code>Hermosillo</code> 
 			<code>Mexicali</code> 
+			<code>San-luis-potosi</code> 
+			<code>Culiacan</code> 
+			<code>Queretaro</code> 
+			<code>Morelia</code> 
+			<code>Chimalhuacan</code> 
+			<code>Reynosa</code> 
+			<code>Torreon</code> 
+			<code>Tlalnepantla</code> 
+			<code>Acapulco</code> 
+			<code>Tlaquepaque</code> 
+			<code>Guadalupe</code> 
+			<code>Durango</code> 
+			<code>Tuxtla-gutierrez</code> 
+			<code>Cuautitlan-izcalli</code> 
+			<code>Veracruz</code> 
+			<code>Ciudad-apodaca</code> 
+			<code>Ciudad-lopez-mateos</code> 
+			<code>Matamoros</code> 
+			<code>Aguas-calientes</code> 
+			<code>Xalapa</code> 
+			<code>Nuevo-laredo</code> 
+			<code>Mazatlan</code> 
+			<code>Tepic</code> 
+			<code>Cuernavaca</code> 
+			<code>Villahermosa</code> 
+			<code>Ciudad-victoria</code> 
+			<code>Oaxaca</code> 
+			<code>La-paz</code> 
+			<code>Campeche</code> 
+			<code>Chilpancingo</code> 
+			<code>Chetumal</code> 
+			<code>Manzanillo</code> 
+			<code>Colima</code> 
 		</td>
 	</tr>
 	<tr>
@@ -317,6 +362,97 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Maracay</code> 
 			<code>Maracaibo</code> 
 			<code>Guayana-city</code> 
+			<code>Barcelona</code> 
+			<code>Barquisimeto</code> 
+			<code>Maturin</code> 
+			<code>Cumana</code> 
+			<code>Petare</code> 
+			<code>Turmero</code> 
+			<code>Merida</code> 
+			<code>Bolivar-city</code> 
+			<code>Barinas</code> 
+			<code>Los-teques</code> 
+			<code>Punto-fijo</code> 
+			<code>La-guaira</code> 
+			<code>Santa-teresa-del-tuy</code> 
+			<code>El-vigia</code> 
+			<code>San-cristobal</code> 
+			<code>San-felipe-del-rey</code> 
+			<code>Puerto-la-cruz</code> 
+			<code>Cabimas</code> 
+			<code>Guatire</code> 
+			<code>San-diego</code> 
+			<code>Porlamar</code> 
+			<code>Cua</code> 
+			<code>Guarenas</code> 
+			<code>San-fernando-de-apure</code> 
+			<code>Los-guayos</code> 
+			<code>Upata</code> 
+			<code>Ocumare-del-tuy</code> 
+			<code>Puerto-cabello</code> 
+			<code>Guacara</code> 
+			<code>El-tigre</code> 
+			<code>Machiques</code> 
+			<code>El-limon</code> 
+			<code>Naguanagua</code> 
+			<code>Acarigua</code> 
+			<code>La-victoria</code> 
+			<code>Valle-de-la-pascua</code> 
+			<code>Zaraza</code> 
+			<code>Coro</code> 
+			<code>Valera</code> 
+			<code>Santa-rita</code> 
+			<code>Cabudare</code> 
+			<code>Charallave</code> 
+			<code>Ciudad-ojeda</code> 
+			<code>Palo-negro</code> 
+			<code>Tariba</code> 
+			<code>San-juan-de-los-morros</code> 
+			<code>La-villa-del-rosario</code> 
+			<code>Yaritagua</code> 
+			<code>Cagua</code> 
+			<code>Anaco</code> 
+			<code>Calabozo</code> 
+			<code>Mariara</code> 
+			<code>Guanare</code> 
+			<code>Carupano</code> 
+			<code>Araure</code> 
+			<code>Ejido</code> 
+			<code>Carora</code> 
+			<code>Guasdualito</code> 
+			<code>La-grita</code> 
+			<code>Guama</code> 
+			<code>Rubio</code> 
+			<code>San-carlos</code> 
+			<code>Boconó</code> 
+			<code>Nirgua</code> 
+			<code>Sa-antonio-de-los-altos</code> 
+			<code>San-jose-de-guanipa</code> 
+			<code>Tinaquillo</code> 
+			<code>Guigue</code> 
+			<code>Chivacoa</code> 
+			<code>Caripito</code> 
+			<code>Colon</code> 
+			<code>Sanare</code> 
+			<code>San-antonio-del-tachira</code> 
+			<code>San-joaquin</code> 
+			<code>Cantaura</code> 
+			<code>El-consejo</code> 
+			<code>El-tocuyo</code> 
+			<code>Puerto-ayacucho</code> 
+			<code>Ospino</code> 
+			<code>Trujillo</code> 
+			<code>Lecheria</code> 
+			<code>Pampatar</code> 
+			<code>Guanta</code> 
+			<code>Santa-cruz</code> 
+			<code>La-asuncion</code> 
+			<code>San-casimiro</code> 
+			<code>Higuerote</code> 
+			<code>Colonia-tovar</code> 
+			<code>Cojedes</code> 
+			<code>Tucacas</code> 
+			<code>Puerto-piritu</code> 
 		</td>
 	</tr>
 </table>
