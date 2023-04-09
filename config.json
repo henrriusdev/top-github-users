@@ -16,6 +16,6 @@
     { "country":  "peru", "geoName": "Peru", "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" },
     { "country":  "spain", "geoName": "Spain", "cities": ["madrid", "barcelona", "seville", "valencia ", "bilbao"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" },
     { "country":  "uruguay", "geoName": "Uruguay", "cities": ["montevideo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" },
-    { "country":  "venezuela", "geoName": "Venezuela", "cities": ["caracas", "maracay", "maracaibo", "guayana-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" },
+    { "country":  "venezuela", "geoName": "Venezuela", "cities": ["caracas", "maracay", "maracaibo", "guayana-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" }
   ]
 }
