@@ -1,0 +1,9 @@
+{
+  "devMode": "false",
+  "locations":[
+    { "country":  "argentina","geoName": "Argentina", "cities": ["buenos-aires", "cordoba", "rosario", "la-plata", "tucumán", "mar-del-plata", "salta", "santa-fe"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" },
+    { "country":  "mexico", "geoName": "Mexico", "cities": ["mexico-city", "guadalajara", "puebla", "ciudad-juárez", "tijuana", "monterrey", "mexicali"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" },
+    { "country":  "venezuela", "geoName": "Venezuela", "cities": ["valencia", "los-teques", "turmero", "caracas", "maracay", "maracaibo", "guayana-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" },
+    { "country":  "spain", "geoName": "Andorra", "cities": ["andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" },
+  ]
+}
