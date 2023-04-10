@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` and `private contributions` by users in Bolivia on `2023/4/10 12:25 AM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` and `private contributions` by users in Bolivia on `2023/4/10 8:05 AM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
-There are `16 countries` and `84 cities` can be found [here](https://github.com/hbourgeot/top-github-users).
+There are `16 countries` and `191 cities` can be found [here](https://github.com/hbourgeot/top-github-users).
 
 There are `983 users`  in Bolivia. You need at least `2 followers` to be on this list.
 
