@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `public contributions` and `private contributions` by users in Honduras on `2023/4/10 2:05 AM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `public contributions` and `private contributions` by users in Honduras on `2023/4/11 12:41 AM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
-There are `16 countries` and `220 cities` can be found [here](https://github.com/hbourgeot/top-github-users).
+There are `16 countries` and `191 cities` can be found [here](https://github.com/hbourgeot/top-github-users).
 
 There are `961 users`  in Honduras. You need at least `0 followers` to be on this list.
 
