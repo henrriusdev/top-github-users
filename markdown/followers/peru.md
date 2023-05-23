@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `number of followers` of users in Peru on `2023/5/16 12:19 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `number of followers` of users in Peru on `2023/5/23 3:14 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `16 countries` and `191 cities` can be found [here](https://github.com/hbourgeot/top-github-users).
 
