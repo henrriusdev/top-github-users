@@ -183,8 +183,8 @@
     },
     {
       "country": "peru",
-      "geoName": "Peru",
-      "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura"],
+      "geoName": "Perú",
+      "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura", "Perú"],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
     },
     {
