@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/18 12:20 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/18 12:41 PM UTC`.
 
-This repository contains users `16 countries` and `192 cities`. 
+This repository contains users `16 countries` and `193 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/hbourgeot/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -323,6 +323,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Chiclayo</code> 
 			<code>Huancayo</code> 
 			<code>Piura</code> 
+			<code>Perú</code> 
 		</td>
 	</tr>
 	<tr>
