@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguay">
 </a>
 
-The `public contributions` by users in Uruguay on `2025/4/22 2:04 AM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
+The `public contributions` by users in Uruguay on `2025/4/28 10:16 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
 
 There are `16 countries` and `192 cities` can be found [here](https://github.com/henrriusdev/top-github-users).
 
